@@ -4,7 +4,7 @@ Interactive marketing analytics dashboard recreating an Improvado-style
 executive summary view. Built for a Technical Customer Success assignment.
 
 ## Live Demo
-🔗 [View Dashboard](https://tunombre.github.io/marketing-dashboard-recreation/Marketing_Dashboard_Recreation.html)
+🔗 [View Dashboard](https://ro-o-debug.github.io/tcs-dashboard/)
 
 ## What it includes
 - 8 KPI cards with period-over-period deltas
